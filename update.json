@@ -1,0 +1,65 @@
+{
+ "versionCode": 1,
+ "levels": {
+  "version": 1,
+  "levels": [
+   {
+    "bot": "easy"
+   },
+   {
+    "bot": "level1",
+    "model": "level1"
+   },
+   {
+    "bot": "medium"
+   },
+   {
+    "bot": "level1@300",
+    "model": "level1"
+   },
+   {
+    "bot": "hard"
+   },
+   {
+    "bot": "level2@1000",
+    "model": "level2"
+   },
+   {
+    "bot": "level3@1000",
+    "model": "level3"
+   },
+   {
+    "bot": "level4@1000",
+    "model": "level4"
+   },
+   {
+    "bot": "level5@1000",
+    "model": "level5"
+   }
+  ]
+ },
+ "models": {
+  "level1": {
+   "url": "https://raw.githubusercontent.com/Povo2021/game1001-updates/main/models/level1.bin",
+   "sha256": "fbab3b21045cc16da53b911cc00b53a15a937f60d699f3c036b865f29367d933"
+  },
+  "level2": {
+   "url": "https://raw.githubusercontent.com/Povo2021/game1001-updates/main/models/level2.bin",
+   "sha256": "7840c1dab6d9821bd6bcc4a7585b7b497e331648c91dd4789c9dbedca3070e85"
+  },
+  "level3": {
+   "url": "https://raw.githubusercontent.com/Povo2021/game1001-updates/main/models/level3.bin",
+   "sha256": "747f2768543b734088cfd8fd1f926fa39da551a5e465bd4f68c696121a61aecb"
+  },
+  "level4": {
+   "url": "https://raw.githubusercontent.com/Povo2021/game1001-updates/main/models/level4.bin",
+   "sha256": "70c6a90c21a1dbc905e63336285c36a3ae71b6a3818c4e542fb70f2726ba25af"
+  },
+  "level5": {
+   "url": "https://raw.githubusercontent.com/Povo2021/game1001-updates/main/models/level5.bin",
+   "sha256": "c07c3315f46fbe72725507d56dd6a166d7fde632171b46dfea090d4aec415e81"
+  }
+ },
+ "apk": "https://raw.githubusercontent.com/Povo2021/game1001-updates/main/game1001.apk",
+ "apkSha256": "1f73479b25fbeada20862829a4e9d90d4d3aa3963f57ca52cc100f9db40b4a0b"
+}
